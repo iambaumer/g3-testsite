@@ -1,0 +1,5 @@
+<section class="triptych">
+    {% for triptych in triptychs %}
+        {% include "includes/card.html", headline: triptych.headline, content: triptych.content %}
+    {% endfor %}
+</section>

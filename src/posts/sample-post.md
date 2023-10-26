@@ -1,0 +1,3 @@
+---
+title: My Sample Post
+---
